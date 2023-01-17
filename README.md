@@ -26,7 +26,7 @@
 |-----:|-----------|
 |     1| Python    |
 
-#### Demonstration:
+#### Demonstration :
 ![Game_guess_number_scr](https://user-images.githubusercontent.com/122100029/212684726-1859c9fb-0500-4b32-8a7c-615028f603a3.gif)
 
 ### :game_die: "Text role-playing game"
@@ -57,7 +57,7 @@
 |-----:|-----------|
 |     1| Python    |
 
-#### Demonstration:
+#### Demonstration :
 ![Game_text_rpg](https://user-images.githubusercontent.com/122100029/212684780-dc5c7ab2-5c6c-4465-8d0a-c2db74495d2f.jpg)
 
 ### :game_die: "Tic-tac-toe"
@@ -90,6 +90,6 @@
 |-----:|-----------|
 |     1| Python    |
 
-#### Demonstration:
+#### Demonstration :
 ![Tic-tac-toe_scr](https://user-images.githubusercontent.com/122100029/212684828-5fb4066a-dbf0-4e0d-82e6-8ea1419c73c1.gif)
 ![Tic-tac-toe_scr](https://user-images.githubusercontent.com/122100029/212684835-c84dfb09-627e-4cfd-a029-c63ce7f48f7b.jpg)
