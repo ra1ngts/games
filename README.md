@@ -91,5 +91,44 @@
 |     1| Python    |
 
 #### Demonstration :
-![Tic-tac-toe_scr](https://user-images.githubusercontent.com/122100029/212684828-5fb4066a-dbf0-4e0d-82e6-8ea1419c73c1.gif)
-![Tic-tac-toe_scr](https://user-images.githubusercontent.com/122100029/212684835-c84dfb09-627e-4cfd-a029-c63ce7f48f7b.jpg)
+![Game_tic_tac_toe_scr](https://user-images.githubusercontent.com/122100029/213676287-6a5b5d9e-b19f-4f5b-a3fe-9e1c8fda9db8.gif)
+![Game_tic_tac_toe_scr](https://user-images.githubusercontent.com/122100029/213678457-641a20ed-366b-484f-a7bb-b5d0aaedcd8e.jpg)
+
+### :game_die: "Battleship"
+
+---
+
+#### About game :
+- __"Battleship"__ is a game for two participants in which players take turns naming coordinates on an opponent's unknown map. 
+- The goal of the player is to be the first to sink all enemy ships.
+
+#### Game rules :
+- The playing field is usually a 10x10 square for each player, on which a fleet of ships is placed. 
+- Horizontals are usually numbered from top to bottom, and verticals from left to right.
+- Each player has: 1 ship (row of 4 cells), 2 ships (row of 3 cells), 3 ships (row of 2 cells) and 4 ships (1 cell).
+- Players can only place ships vertically or horizontally.
+- It is forbidden to connect ships together.
+
+#### For what :
+- It was a test task at the school where I study.
+
+#### Visualization :
+- Visualization is carried out by means of data output to the console. 
+- Some objects in the game have been recolored for better visualization.
+- It is also possible to change the original colors.
+- The game does not have a ***graphical interface***.
+
+#### Install :
+- File name: __game_battle_ship.py__
+- [Open code for viewing.](https://github.com/ra1ngts/games/blob/master/game_battle_ship.py)
+- Copy the code to a new file with extension ".py".
+- Open the created file with the .py extension in any IDE.
+
+#### Language :
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+
+#### Demonstration :
+![Game_battle_ship_src_1](https://user-images.githubusercontent.com/122100029/213676675-601410fd-a745-4eb2-aac1-8db1786b9fe0.jpg)
+![Game_battle_ship_src_2](https://user-images.githubusercontent.com/122100029/213676690-29cb982a-33a0-4c00-95be-ec1505fb4d57.jpg)
