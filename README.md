@@ -132,3 +132,42 @@
 #### Demonstration :
 ![Game_battle_ship_src_1](https://user-images.githubusercontent.com/122100029/213676675-601410fd-a745-4eb2-aac1-8db1786b9fe0.jpg)
 ![Game_battle_ship_src_2](https://user-images.githubusercontent.com/122100029/213676690-29cb982a-33a0-4c00-95be-ec1505fb4d57.jpg)
+
+### :game_die: "Minesweeper"
+
+---
+
+#### About game :
+- __"Minesweeper"__ is a puzzle game.
+- The goal of the game is to open empty cells and not step on a mine.
+- In this implementation of the game, the player receives points for each open cell.
+
+#### Game rules :
+- The flat playing field is divided into cells, some of which are "mined".
+- The number of "mined" cells is not known.
+- The player opens the cells, trying not to open a cell with a mine.
+- Having opened a cell with a mine, he loses.
+- The goal of the game is to open all cells that do not contain mines.
+
+#### For what :
+- I just wanted to do it for myself.
+
+#### Visualization :
+- Visualization is carried out by means of data output to the console. 
+- Some objects in the game have been recolored for better visualization.
+- It is also possible to change the original colors.
+- The game does not have a ***graphical interface***.
+
+#### Install :
+- File name: __game_mine_sweeper.py__
+- [Open code for viewing.](https://github.com/ra1ngts/games/blob/master/game_mine_sweeper.py)
+- Copy the code to a new file with extension ".py".
+- Open the created file with the .py extension in any IDE.
+
+#### Language :
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+
+#### Demonstration :
+![Game_mine_sweeper_scr_1](https://user-images.githubusercontent.com/122100029/216760780-6bd15281-a642-49cd-ad49-d82c149aa5f9.jpg)
