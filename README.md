@@ -15,7 +15,7 @@
 - Visualization is carried out by means of data output to the console. 
 - The game does not have a ***graphical interface***.
 
-#### Install :
+#### Installation :
 - File name: __game_guess_number.py__
 - [Open code for viewing.](https://github.com/ra1ngts/games/blob/master/game_guess_number.py)
 - Copy the code to a new file with extension ".py".
@@ -46,7 +46,7 @@
 - Visualization is carried out by means of data output to the console. 
 - The game does not have a ***graphical interface***.
 
-#### Install :
+#### Installation :
 - File name: __game_text_rpg.py__
 - [Open code for viewing.](https://github.com/ra1ngts/games/blob/master/game_text_rpg.py)
 - Copy the code to a new file with extension ".py".
@@ -79,7 +79,7 @@
 - Visualization is carried out by means of data output to the console. 
 - The game does not have a ***graphical interface***.
 
-#### Install :
+#### Installation :
 - File name: __game_x_o.py__
 - [Open code for viewing.](https://github.com/ra1ngts/games/blob/master/game_x_o_rl.py)
 - Copy the code to a new file with extension ".py".
@@ -118,7 +118,7 @@
 - It is also possible to change the original colors.
 - The game does not have a ***graphical interface***.
 
-#### Install :
+#### Installation :
 - File name: __game_battle_ship.py__
 - [Open code for viewing.](https://github.com/ra1ngts/games/blob/master/game_battle_ship.py)
 - Copy the code to a new file with extension ".py".
@@ -158,7 +158,7 @@
 - It is also possible to change the original colors.
 - The game does not have a ***graphical interface***.
 
-#### Install :
+#### Installation :
 - File name: __game_mine_sweeper.py__
 - [Open code for viewing.](https://github.com/ra1ngts/games/blob/master/game_mine_sweeper.py)
 - Copy the code to a new file with extension ".py".
