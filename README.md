@@ -9,6 +9,11 @@
 - Git
 - GitHub
 
+#### How to run :
+- Clone the repository.
+- Select the required game.
+- Run the corresponding `.py` file using Python.
+
 ## Games :
 
 ### :game_die: Guess the Number
