@@ -58,7 +58,7 @@
 |     1| Python    |
 
 #### Demonstration :
-![Game_text_rpg](https://user-images.githubusercontent.com/122100029/212684780-dc5c7ab2-5c6c-4465-8d0a-c2db74495d2f.jpg)
+<img width="969" height="862" alt="Game_text_rpg" src="https://github.com/user-attachments/assets/4165dc7e-ea99-481c-be44-91fe99e10559" />
 
 ### :game_die: "Tic-tac-toe"
 
@@ -92,7 +92,7 @@
 
 #### Demonstration :
 ![Game_tic_tac_toe_scr](https://user-images.githubusercontent.com/122100029/213676287-6a5b5d9e-b19f-4f5b-a3fe-9e1c8fda9db8.gif)
-![Game_tic_tac_toe_scr](https://user-images.githubusercontent.com/122100029/213678457-641a20ed-366b-484f-a7bb-b5d0aaedcd8e.jpg)
+<img width="1032" height="380" alt="Game_tic_tac_toe_scr" src="https://github.com/user-attachments/assets/c0214937-d9f1-4424-902d-2d4ebb37a217" />
 
 ### :game_die: "Battleship"
 
@@ -130,8 +130,8 @@
 |     1| Python    |
 
 #### Demonstration :
-![Game_battle_ship_src_1](https://user-images.githubusercontent.com/122100029/213676675-601410fd-a745-4eb2-aac1-8db1786b9fe0.jpg)
-![Game_battle_ship_src_2](https://user-images.githubusercontent.com/122100029/213676690-29cb982a-33a0-4c00-95be-ec1505fb4d57.jpg)
+<img width="1443" height="851" alt="Game_battle_ship_scr_1" src="https://github.com/user-attachments/assets/8498c8c4-25a8-4dd6-9374-4ea782bc2e71" />
+<img width="1443" height="851" alt="Game_battle_ship_scr_2" src="https://github.com/user-attachments/assets/55b466be-73ae-48a5-958f-53db0a83a395" />
 
 ### :game_die: "Minesweeper"
 
@@ -170,4 +170,4 @@
 |     1| Python    |
 
 #### Demonstration :
-![Game_mine_sweeper_scr_1](https://user-images.githubusercontent.com/122100029/216760780-6bd15281-a642-49cd-ad49-d82c149aa5f9.jpg)
+<img width="1443" height="851" alt="Game_mine_sweeper_scr_1" src="https://github.com/user-attachments/assets/fe80f082-57af-4308-a964-48185fd8a906" />
