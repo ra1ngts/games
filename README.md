@@ -1,5 +1,7 @@
 # :video_game: Python Games
 
+---
+
 #### About project :
 - __Python Games__ — a collection of small console-based games developed while learning and practicing Python.
 - The repository contains several independent games focused on programming fundamentals, game logic, algorithms, and working with user input.
